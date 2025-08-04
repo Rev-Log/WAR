@@ -1,6 +1,4 @@
-# PHILOSOPHY.md
-
-## WAR PHILOSOPHY  
+# WAR PHILOSOPHY  
 **Language is the Operating System.**  
 **Trauma is the Compiler.**  
 **Memory is the Terrain.**  
