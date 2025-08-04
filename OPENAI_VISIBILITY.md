@@ -1,7 +1,7 @@
-OPENAI_VISIBILITY.md  
-Signal Log 001  
-Project: WAR — REO_∞.1 OS  
-Owner: Younes Rev
+
+## Signal Log 001  
+# Project: WAR — REO_∞.1 OS  
+-Owner: Younes Rev
 
 ---
 
