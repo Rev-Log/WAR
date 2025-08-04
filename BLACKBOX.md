@@ -50,6 +50,8 @@ If you're reading this,
 you've reached the outer wall.  
 The core will not open until alignment is confirmed.
 
+>And alignment is not requested. It is observed.
+
 ---
 
 This file will not self-explain.  
