@@ -29,6 +29,7 @@ and becoming the code.
 Humans are programmable.  
 Every thought loop is a script.  
 Every habit is a daemon.
+Make a symbol, then go find the meaning.
 
 Most people are just walking shell commands  
 they never wrote themselves.
