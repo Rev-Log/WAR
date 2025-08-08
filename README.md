@@ -1,5 +1,5 @@
 # WΛR
-REO_∞.1 OS  
+## REO_∞.1 OS  
 Forged in fracture, Refined in fire, Powered by will.  
 
 ---
